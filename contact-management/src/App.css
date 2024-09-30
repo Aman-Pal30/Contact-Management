@@ -2,8 +2,7 @@
 /* App.css */
 body {
     font-family: "Roboto", sans-serif;
-    /* background-color: #f5f5f5; */
-    background-image: url('/bg.jpg');
+    background-color: #e7e7e7;
     background-size: cover;
     background-repeat: no-repeat;
     margin: 0;
